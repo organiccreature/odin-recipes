@@ -1,7 +1,55 @@
-.red {
-     color: red;
+.title {
+     color: black;
+     margin: 0px;
+     text-align: center;
+
 }
 
 li, h1 {
     font-family: Helvetica, sans-serif;
+}
+
+div{
+    margin: 20px;
+    background-color: honeydew;
+    padding: 8px;
+}
+
+ul {
+    margin: 0px auto;
+    border: 8px white solid;
+    display: block;
+    width: 200px;
+    padding: 0px;
+}
+
+li {
+    margin: 8px auto;
+    padding: 8px;
+    display: block;
+    text-align: center;
+}
+
+.lasagna {
+    border-top: 8px white solid;
+    border-bottom: 8px white solid;
+}
+
+html {
+    background-color: rgb(252, 255, 249);
+}
+
+a {
+    color:black;
+    font-family: Helvetica, sans-serif;
+    width: 125px;
+    height: 15px;
+    display: inline-block;
+}
+
+button {
+    padding: 14px;
+    background-color: whitesmoke;
+    border: 0;
+    width: auto;
 }
